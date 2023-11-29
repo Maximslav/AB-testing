@@ -1,0 +1,2 @@
+# Linearization
+Here I am going to examine Ratio-metric case in A/B testing. We are going to take Average Order Value metric. Design the test using Linearization method, also we will use Cuped method in order to reduce Variance of our data and increase the power of the test. Design will be validated by Historical A/A and A/B tests to make sure we control FPR and Power of our experiment	
