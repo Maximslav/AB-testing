@@ -1,0 +1,1 @@
+Stratification allows to reduce varience of the data in order to increase the Power of the test. File "data.csv" contains fake generated data of users and their strats with the metric of interest. File "Stratification.ipynb" contains an example of A/B test Design required to reduce sample size
